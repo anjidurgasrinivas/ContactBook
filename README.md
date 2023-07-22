@@ -1,1 +1,1 @@
-# ContactBook
+A Contact Book application in Python with a Graphical User Interface (GUI) allows users to store, view, and manage their contacts in an interactive and user-friendly way. The GUI provides a visual interface with buttons, input fields, and displays, making it more intuitive for users to interact with the application compared to a command-line interface.
